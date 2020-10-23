@@ -1,0 +1,38 @@
+
+h1 {
+    float: left; 
+    background-color: brown;background-size: 30px;
+    
+    height: 30px;
+}
+
+.accueil{
+    height: 600px;
+    
+}
+
+header nav ul {
+    list-style: none;
+    overflow: hidden;
+    background: wheat; 
+    background-size: 30pxs;
+    height: 30px;
+
+
+}
+
+header nav ul li {
+    text-align: start;
+ float: left;
+    
+}
+
+header nav ul li a{
+    display: block;
+    text-decoration: none;
+    float: left;
+}
+
+
+
+
